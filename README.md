@@ -7,7 +7,7 @@ Anggota :
 WireFrame Figma : https://www.figma.com/file/PEXxfNqjHUgSV2GDHnBR0Y/Wireframing-DartGameCorner?node-id=0%3A1
 
 Hosting : https://dartgamecorner.000webhostapp.com/
-Status CRUD Hosting : 
-            - CRUD User : ✅Active
-            - CRUD Products : ✅Active
-            - CRUD Menu : ❌Error
+Status CRUD Hosting :
+- CRUD User : ✅Active
+- CRUD Products : ✅Active
+- CRUD Menu : ❌Error
